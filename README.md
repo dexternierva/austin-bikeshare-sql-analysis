@@ -38,5 +38,6 @@ Key findings from the EDA phase:
 
 ## 6. How to View the SQL Code
 You can view the full queries used in this project in the files above:
+- See [eda_queries.sql](eda_queries.sql) for the exploratory data analysis phase.
 - See [cleaning_queries.sql](cleaning_queries.sql) for the data cleaning process.
 - See [analysis_queries.sql](analysis_queries.sql) for the business logic and aggregations.
